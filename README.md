@@ -14,3 +14,4 @@ In dieser Stunde haben wir, Lionora und Melina uns zu einem Team zusammengetan u
 
 
 ## 25. August 2022
+Heute haben wir uns darauf geeinigt, ein Spiel zu programmieren und benutzen dafür greenfoot. Bei dem Spiel soll es sich um eine Maus handeln, welche in einem Labyrinth nach einem Stück Käse sucht. Wir haben uns verschiedene Tutorials angeschaut und uns mit verschiedenen Szenarien auf greenfoot vertraut gemacht. 
