@@ -3,7 +3,7 @@
 Melina Safari, Lionora Ajvazi
 
 
-1. [Projektseite] 
+1. [Projektseite] (https://github.com/jbuhl/InformatikUnterricht/blob/master/README.md)
 
 
 
