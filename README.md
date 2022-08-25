@@ -1,9 +1,10 @@
 # Stundenprotokolle 11.Klasse 1.Halbjahr
 
-Melina Safari, Lionora Ajvazi
+Ein Projekt von Melina Safari und Lionora Ajvazi
 
 
-https://github.com/jbuhl/InformatikUnterricht/blob/master/README.md
+## Inhaltsverzeichnis 
+
 
 
 
