@@ -19,3 +19,6 @@ Heute haben wir uns darauf geeinigt, ein Spiel zu programmieren und benutzen daf
 
 ## 29. August 2022 
 In dieser Stunde haben wir angefangen, das erste Level unseres Spieles zu erstellen. 
+
+
+## 05. September 2022
