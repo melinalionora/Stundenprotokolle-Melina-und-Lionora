@@ -22,3 +22,4 @@ In dieser Stunde haben wir angefangen, das erste Level unseres Spieles zu erstel
 
 
 ## 05. September 2022
+Heute haben wir das erste Level unseres Spieles fortgesetzt und uns Tutorials angeschaut, um zu erfahren, wie man die Maus steuert. 
