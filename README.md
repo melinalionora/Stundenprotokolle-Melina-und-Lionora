@@ -18,8 +18,8 @@ Heute haben wir uns darauf geeinigt, ein Spiel zu programmieren und benutzen daf
 
 
 ## 29. August 2022 
-In dieser Stunde haben wir angefangen, das erste Level unseres Spieles zu erstellen. 
+Wir haben uns Gedanken zur Optik und zum Design unseres Spieles gemacht und unsere Gedanken zusammengefügt. Wir haben unsere Ausgangsidee durchgesetzt und uns dementsprechend für eine Maus entschieden, welche in einem Labyrinth nach einem Käsekuchen sucht und verschiedene Levels mit steigenden Schwierigkeitsgraden überqueren muss.  
 
 
 ## 05. September 2022
-Heute haben wir das erste Level unseres Spieles fortgesetzt und uns Tutorials angeschaut, um zu erfahren, wie man die Maus steuert. 
+Heute haben wir das erste Level unseres Spieles angefangen und schon einmal ein Labyrinth erstellt. Dementsprechend sind wir mit dem Design des ersten Levels fast fertig geworden. 
