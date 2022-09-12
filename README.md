@@ -22,8 +22,14 @@ Wir haben uns Gedanken zur Optik und zum Design unseres Spieles gemacht und unse
 
 
 ## 05. September 2022
-Heute haben wir das erste Level unseres Spieles angefangen und schon einmal ein Labyrinth erstellt. Dementsprechend sind wir mit dem Design des ersten Levels fast fertig geworden. 
+Heute haben wir das erste Level unseres Spieles angefangen und haben schon einmal ein Labyrinth erstellt. Dementsprechend sind wir mit dem Design des ersten Levels fast fertig geworden. 
 
 
 ## 08. September 2022
+In dieser Stunde haben wir die Funktionen der Tasten programmiert, sodass die Maus sich nach oben, unten, links und rechts bewegen kann. 
+
+
+## 12. September 2022
+
+
 
