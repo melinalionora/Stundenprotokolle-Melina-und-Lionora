@@ -6,7 +6,7 @@ Ein Projekt von Melina Safari und Lionora Ajvazi
 ## Inhaltsverzeichnis
 [Stundenprotokolle](#Stundenprotokolle)
 
-[DasProgramm](#DasProgramm)
+[Das Programm](#DasProgramm)
 
 
 ## Stundenprotokolle  <a name="Stundenprotokolle"></a> 
