@@ -45,7 +45,7 @@ Wir haben uns die Programme "Snap!" und "Greenfoot" angeguckt, welche uns nach H
 
 
 
-![screenshot_mouse](image/screenshot_mouse.png "Screenshot von MouseWorld")
+![screenshot_mouse](Bilder/screenshot_mouse.png "Screenshot von MouseWorld")
 
 
 
