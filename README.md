@@ -6,7 +6,7 @@ Ein Projekt von Melina Safari und Lionora Ajvazi
 ## Inhaltsverzeichnis
 [Stundenprotokolle](#Stundenprotokolle)
 
-[Das Programm](#DasProgramm)
+[DasProgramm](#DasProgramm)
 
 
 ## Stundenprotokolle  <a name="Stundenprotokolle"></a> 
@@ -36,7 +36,7 @@ Heute haben wir weitere Funktionen programmiert, welche zur Steuerung der Maus d
 
 
 ## 19. September 2022
-kdgifew
+
 
 
 ## Das Programm <a name="Das Programm"></a>
