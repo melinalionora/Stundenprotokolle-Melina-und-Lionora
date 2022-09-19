@@ -36,6 +36,9 @@ Heute haben wir weitere Funktionen programmiert, welche zur Steuerung der Maus d
 
 
 ## 19. September 2022
+In dieser Stunde haben wir uns weitere Schwierigkeitsgrade überlegt für die weiteren Levels. Wir haben unsere Gedanken zusammengefügt und besprochen, welche Schwierigkeiten in den nächsten Levels unseres Spieles auftauchen sollten. Außerdem haben wir uns Bilder ausgesucht, welche wir für unser Projekt benutzen wollen. 
+
+
 
 
 
