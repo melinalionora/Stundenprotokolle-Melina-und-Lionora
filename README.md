@@ -6,7 +6,7 @@ Ein Projekt von Melina Safari und Lionora Ajvazi
 ## Inhaltsverzeichnis
 [Stundenprotokolle](#Stundenprotokolle)
 
-[Das Programm](#DasProgramm)
+[DasProgramm](#DasProgramm)
 
 
 ## Stundenprotokolle  <a name="Stundenprotokolle"></a> 
@@ -41,6 +41,8 @@ Heute haben wir weitere Funktionen programmiert, welche zur Steuerung der Maus d
 
 ## Das Programm  <a name="Das Programm"></a>
 Wir haben uns die Programme "Snap!" und "Greenfoot" angeguckt, welche uns nach Herrn Buhls Empfehlung gut zur programmierung eines Spieles helfen könnten. Wir haben uns zu beiden Programmen näher informiert und kamen zu dem Entschluss, dass Greenfoot übersichtlicher ist und optimal zu unserer Idee/ Vorstellung passt. So haben wir angefangen, uns ausführliche Tutorials zu dem Programm "Greenfoot" anzuschauen 
+
+
 
 
 
