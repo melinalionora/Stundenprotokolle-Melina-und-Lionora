@@ -1,4 +1,4 @@
-# Stundenprotokolle 11.Klasse 1.Halbjahr
+# Projekt "Go Cheezy" Klasse 11, Halbjahr 1
 
 Ein Projekt von Melina Safari und Lionora Ajvazi
 
