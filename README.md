@@ -45,7 +45,7 @@ In dieser Stunde haben wir uns weitere Schwierigkeitsgrade überlegt für die we
 
 ## Programm  <a name="Programm"></a>
 
-Wir haben uns die Programme "Snap!" und "Greenfoot" angeguckt, welche uns nach Herrn Buhls Empfehlung gut zur programmierung eines Spieles helfen könnten. Wir haben uns zu beiden Programmen näher informiert und kamen zu dem Entschluss, dass Greenfoot übersichtlicher ist und optimal zu unserer Idee/ Vorstellung passt. So haben wir angefangen, uns ausführliche Tutorials zu dem Programm "Greenfoot" anzuschauen 
+Wir haben uns die Programme "Snap!" und "Greenfoot" angeguckt, welche uns nach Herrn Buhls Empfehlung gut zur programmierung eines Spieles helfen könnten. Wir haben uns zu beiden Programmen näher informiert und kamen zu dem Entschluss, dass Greenfoot übersichtlicher ist und optimal zu unserer Idee/ Vorstellung passt. Außerdem eignet sich das Programm besonders gut für Anfänger. So haben wir angefangen, uns ausführliche Tutorials zu dem Programm "Greenfoot" anzuschauen und kamen unserer Idee immer näher. 
 
 ![screenshot_greenfoot](Bilder/screenshot_greenfoot.png "Greenfoot")
 
