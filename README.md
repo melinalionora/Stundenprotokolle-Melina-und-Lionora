@@ -54,7 +54,6 @@ Wir haben uns die Programme "Snap!" und "Greenfoot" angeguckt, welche uns nach H
 
 ## Levels <a name="Levels"></a>
 
-![level1_neu](Bilder/level1_neu.png "Level 1")
 
 
 
