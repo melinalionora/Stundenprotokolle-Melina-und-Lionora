@@ -6,8 +6,10 @@ Ein Projekt von Melina Safari und Lionora Ajvazi
 ## Inhaltsverzeichnis
 [Stundenprotokolle](#Stundenprotokolle)
 
-
 [Programm](#Programm)
+
+[Levels](#Levels)
+
 
 
 ## Stundenprotokolle  <a name="Stundenprotokolle"></a> 
@@ -17,7 +19,7 @@ In dieser Stunde haben wir, Lionora und Melina uns zu einem Team zusammengetan u
 
 
 ## 25. August 2022
-Heute haben wir uns darauf geeinigt, ein Spiel zu programmieren und benutzen dafür greenfoot. Bei dem Spiel soll es sich um eine Maus handeln, welche in einem Labyrinth nach einem Stück Käse sucht. Wir haben uns verschiedene Tutorials angeschaut und uns mit verschiedenen Szenarien auf greenfoot vertraut gemacht. 
+Heute haben wir uns darauf geeinigt, ein Spiel zu programmieren und benutzen dafür das Programm Greenfoot. Bei dem Spiel soll es sich um eine Maus handeln, welche in einem Labyrinth nach einem Stück Käsekuchen sucht. Wir haben uns verschiedene Tutorials angeschaut und uns mit verschiedenen Szenarien auf greenfoot vertraut gemacht. 
 
 
 ## 29. August 2022 
