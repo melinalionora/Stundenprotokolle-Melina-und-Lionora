@@ -47,6 +47,7 @@ Heute haben wir den übergang vom ersten Level in das zweite Level programmiert.
 
 
 ## 26. September 2022 
+In dieser Stunde haben wir uns in dem Buch "Einführung in Java mit Greenfoot" anleitungen zur programmierung des zweiten Levels angeguckt. 
 
 
 
