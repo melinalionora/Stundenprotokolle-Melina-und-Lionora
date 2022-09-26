@@ -43,6 +43,12 @@ In dieser Stunde haben wir uns weitere Schwierigkeitsgrade überlegt für die we
 
 
 ## 22. September 2022
+Heute haben wir den übergang vom ersten Level in das zweite Level programmiert. Außerdem haben wir weiter am unserem gesamten Projekt gearbeitet und weitere Bilder eingefügt. 
+
+
+## 26. September 2022 
+
+
 
 
 
