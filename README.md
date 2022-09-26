@@ -68,6 +68,8 @@ Level 1 :
 
 ![level1](Bilder/level1.png "Level 1")
 
+Für das erste Level haben wir uns einen sehr leichten Schwierigkeitsgrad überlegt, bei dem man nur durch das Labyrinth zum Käsekuchen gelangen muss. Es gibt drei Möglichkeiten. Ganz oben befindet sich eine Packung Pommes, welche die Maus nicht isst, dadrunter ist der Käsekuchen blockiert und ganz unten kann die Maus ohne Probleme zum Käsekuchen gelangen.  
+
 
 
 
