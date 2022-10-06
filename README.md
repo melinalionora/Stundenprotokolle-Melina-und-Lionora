@@ -52,6 +52,7 @@ In dieser Stunde haben wir uns in dem Buch "Einführung in Java mit Greenfoot" a
 
 ## 06. Oktober 2022 
 
+nach den Ferien schreiben 
 
 
 
