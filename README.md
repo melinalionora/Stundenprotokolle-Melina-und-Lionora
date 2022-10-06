@@ -47,7 +47,11 @@ Heute haben wir den übergang vom ersten Level in das zweite Level programmiert.
 
 
 ## 26. September 2022 
-In dieser Stunde haben wir uns in dem Buch "Einführung in Java mit Greenfoot" anleitungen zur programmierung des zweiten Levels angeguckt. 
+In dieser Stunde haben wir uns in dem Buch "Einführung in Java mit Greenfoot" anleitungen zur programmierung des zweiten Levels angeguckt. Ausßerdem haben wir weiter an unserem gesamtem Projekt gearbeitet. 
+
+
+## 06. Oktober 2022 
+
 
 
 
@@ -69,7 +73,7 @@ Level 1 :
 
 ![level1](Bilder/level1.png "Level 1")
 
-Für das erste Level haben wir uns einen sehr leichten Schwierigkeitsgrad überlegt, bei dem man nur durch das Labyrinth zum Käsekuchen gelangen muss. Es gibt drei Möglichkeiten. Ganz oben befindet sich eine Packung Pommes, welche die Maus nicht isst, dadrunter ist der Käsekuchen blockiert und ganz unten kann die Maus ohne Probleme zum Käsekuchen gelangen.  
+Für das erste Level haben wir uns einen sehr leichten Schwierigkeitsgrad überlegt, bei dem man nur durch das Labyrinth zum Käsekuchen gelangen muss. Es gibt drei Möglichkeiten. Ganz oben befindet sich eine Packung Pommes, welche die Maus nicht isst, dadrunter ist der Käsekuchen blockiert und ganz unten kann die Maus ohne Probleme zum Käsekuchen gelangen. Wenn die Maus den Käsekuchen berührt, verschwindet dieser und die Maus hat ihn sozusagen aufgegessen. 
 
 
 
