@@ -51,9 +51,10 @@ In dieser Stunde haben wir uns in dem Buch "Einführung in Java mit Greenfoot" a
 
 
 ## 06. Oktober 2022 
+Heute haben wir in unserem Blog weiter geschrieben und uns mit dem Quelltext für das Spiel beschäftigt. Wir arbeiten nun daran, neue Sachen, beziehungsweise Funktionen zu programmieren. 
 
-nach den Ferien schreiben 
 
+## 24. Oktober 2022 
 
 
 
