@@ -59,7 +59,11 @@ In dieser Stunde hatten wir Schwierigkeiten zur programmierung des zweiten Level
 
 
 ## 03. November 2022
-In der heutigen Stunde haben wir 
+In der heutigen Stunde haben wir entsprechend des zweiten Levels Ameisen programmiert, welche den Weg der Maus sozusagen blockieren. Nun müssen wir weiter daran arbeiten und weitere Funktionen programmieren, um das zweite Level zu vollenden. 
+
+
+## 07. November 2022
+
 
 
 
