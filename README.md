@@ -66,6 +66,10 @@ In der heutigen Stunde haben wir entsprechend des zweiten Levels Ameisen program
 In der heutigen Stunde haben wir das zweite Level fast vollenden können. Es fehlen nur noch einige Kleinigkeiten, für die heute leider die Zeit nicht gereicht hat. 
 
 
+## 21. November 2022
+
+
+
 
 
 
