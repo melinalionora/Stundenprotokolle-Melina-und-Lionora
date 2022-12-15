@@ -43,7 +43,7 @@ In dieser Stunde haben wir uns weitere Schwierigkeitsgrade überlegt für die we
 
 
 ## 22. September 2022
-Heute haben wir den übergang vom ersten Level in das zweite Level programmiert. Außerdem haben wir weiter am unserem gesamten Projekt gearbeitet und weitere Bilder eingefügt. 
+Heute haben wir den übergang vom ersten Level in das zweite Level programmiert. Außerdem haben wir weiter an unserem gesamten Projekt gearbeitet und weitere Bilder eingefügt. 
 
 
 ## 26. September 2022 
@@ -67,8 +67,10 @@ In der heutigen Stunde haben wir das zweite Level fast vollenden können. Es feh
 
 
 ## 21. November 2022
+Wir haben mittlerweile das zweite Level vollenden können. Nun tragen wir weitere Sachen in unseren Blog ein. Wir haben in dieser Stunde viel an unserem Blog gearbeitet und sind ziemlich weit gekommen. 
 
-
+## 15. Dezember 2022
+In der heutigen Stunde haben wir unser Projekt vollenden können. Wir haben insgesamt zwei Level für das Spiel programmieren können. 
 
 
 
