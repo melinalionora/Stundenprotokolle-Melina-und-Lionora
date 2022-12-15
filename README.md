@@ -10,6 +10,8 @@ Ein Projekt von Melina Safari und Lionora Ajvazi
 
 [Levels](#Levels)
 
+[Reflexion](#Reflexion)
+
 
 
 ## Stundenprotokolle  <a name="Stundenprotokolle"></a> 
@@ -59,11 +61,10 @@ In dieser Stunde hatten wir Schwierigkeiten zur programmierung des zweiten Level
 
 
 ## 03. November 2022
-In der heutigen Stunde haben wir entsprechend des zweiten Levels Ameisen programmiert, welche den Weg der Maus sozusagen blockieren. Nun müssen wir weiter daran arbeiten und weitere Funktionen programmieren, um das zweite Level zu vollenden. 
-
+In der heutigen Stunde haben wir entsprechend des zweiten Levels Ameisen programmiert, welche den Weg der Maus sozusagen blockieren. ZUnächst hatten wir erneut Probleme, die Ameisen so zu programmieren, dass sie sich mit der Zeit vermehren. 
 
 ## 07. November 2022
-In der heutigen Stunde haben wir das zweite Level fast vollenden können. Es fehlen nur noch einige Kleinigkeiten, für die heute leider die Zeit nicht gereicht hat. 
+In der heutigen Stunde haben wir das zweite Level fast vollenden können. Es fehlen nur noch einige Kleinigkeiten, für die heute leider die Zeit nicht gereicht hat. Wir müssen noch weitere Käsekuchen an den geeigneten Stellen programmieren. 
 
 
 ## 21. November 2022
@@ -105,6 +106,11 @@ In dem zweiten Level gibt es 4 Ameisenhügel, aus denen Ameisen nach oben und na
 ![übergang2](Bilder/übergang2.png "Übergang")
 
 Wir haben den Übergang von Level 1 zu Level 2 wie auf dem Bild abgebildet programmiert. 
+
+
+## Reflexion
+
+Wir haben in der Zeit vom 22. August bis zum 15. Dezember in dem Fach Informatik an unseren Projekten gearbeitet. Dabei mussten wir uns einigen Probleme stellen, gleichzeitig hat es uns eine große Freude bereitet an dem Projekt zu arbeiten. 
 
 
 
