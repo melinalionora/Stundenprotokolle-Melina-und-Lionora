@@ -100,6 +100,12 @@ Level 2 :
 In dem zweiten Level gibt es 4 Ameisenhügel, aus denen Ameisen nach oben und nach unten hin herauskommen. Die Maus muss es schaffen, die Ameisenhügfel zu überqueren und kann dabei keine Ameisen berühren, bzw. über sie gehen. Nachdem die Maus die Hügel überquert hat, muss sie an die Käsekuchen rankommen. 
 
 
+Übergang von Level 1 zu Level 2
+
+![übergang](Bilder/übergang.png "Übergang")
+
+
+
 
 
 
