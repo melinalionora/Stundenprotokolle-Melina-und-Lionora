@@ -55,7 +55,7 @@ Heute haben wir in unserem Blog weiter geschrieben und uns mit dem Quelltext fü
 
 
 ## 24. Oktober 2022 
-In dieser Stunde hatten wir Schwierigkeiten zur programmierung des zweiten Levels und es sind einige Komplikationenn aufgetaucht, weswegen wir Hilfe bei Herrn Buhl gesucht haben.  
+In dieser Stunde hatten wir Schwierigkeiten zur programmierung des zweiten Levels und es sind einige Komplikationenn aufgetaucht, weswegen wir Hilfe bei Herrn Buhl gesucht haben. Wir haben es nicht hinbekommen, zu programmieren, dass die Ameisen sich in einem gut angepassten Tempo bewegen und vermehren. Leider hat die Zeit nicht gereicht und wir müssen uns diesem Problem in der nächsten Stunde stellen. 
 
 
 ## 03. November 2022
