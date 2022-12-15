@@ -102,6 +102,10 @@ In dem zweiten Level gibt es 4 Ameisenhügel, aus denen Ameisen nach oben und na
 
 Übergang von Level 1 zu Level 2
 
+![übergang2](Bilder/übergang2.png "Übergang")
+
+
+
 
 
 
