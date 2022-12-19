@@ -25,8 +25,7 @@ Heute haben wir uns darauf geeinigt, ein Spiel zu programmieren und benutzen daf
 
 
 ## 29. August 2022 
-Wir haben uns Gedanken zur Optik und zum Design unseres Spieles gemacht und unsere Gedanken zusammengefügt. Wir haben unsere Ausgangsidee durchgesetzt und uns dementsprechend für eine Maus entschieden, welche in einem Labyrinth nach einem Käsekuchen sucht und verschiedene Levels mit steigenden Schwierigkeitsgraden überqueren muss.  
-
+Wir haben uns Gedanken zur Optik und zum Design unseres Spieles gemacht und unsere Gedanken zusammengefügt. Wir haben unsere Ausgangsidee durchgesetzt und uns dementsprechend für eine Maus entschieden, welche in einem Labyrinth nach einem Käsekuchen sucht und zwei Levels mit steigenden Schwierigkeitsgraden überqueren muss.
 
 ## 05. September 2022
 Heute haben wir das erste Level unseres Spieles angefangen und haben schon einmal ein Labyrinth erstellt. Dementsprechend sind wir mit dem Design des ersten Levels fast fertig geworden. 
@@ -41,11 +40,11 @@ Heute haben wir weitere Funktionen programmiert, welche zur Steuerung der Maus d
 
 
 ## 19. September 2022
-In dieser Stunde haben wir uns weitere Schwierigkeitsgrade überlegt für die weiteren Levels. Wir haben unsere Gedanken zusammengefügt und besprochen, welche Schwierigkeiten in den nächsten Levels unseres Spieles auftauchen sollten. Außerdem haben wir uns Bilder ausgesucht, welche wir für unser Projekt benutzen wollen. 
+In dieser Stunde haben wir uns weitere Schwierigkeitsgrade überlegt für das zweite Level und haben unsere Gedanken zusammengefügt und besprochen, welche Schwierigkeiten in dem nächsten Level unseres Spieles auftauchen sollten. Außerdem haben wir uns Bilder ausgesucht, welche wir für unser Projekt benutzen wollen. 
 
 
 ## 22. September 2022
-Heute haben wir den übergang vom ersten Level in das zweite Level programmiert. Außerdem haben wir weiter an unserem gesamten Projekt gearbeitet und weitere Bilder eingefügt. 
+Heute haben wir den übergang vom ersten Level in das zweite Level programmiert. Dabei gab es einige Schwierigkeiten und wir saßen ziemlich lange daran. Außerdem haben wir weiter an unserem Projekt gearbeitet und weitere Bilder eingefügt.
 
 
 ## 26. September 2022 
@@ -61,7 +60,7 @@ In dieser Stunde hatten wir Schwierigkeiten zur programmierung des zweiten Level
 
 
 ## 03. November 2022
-In der heutigen Stunde haben wir entsprechend des zweiten Levels Ameisen programmiert, welche den Weg der Maus sozusagen blockieren. ZUnächst hatten wir erneut Probleme, die Ameisen so zu programmieren, dass sie sich mit der Zeit vermehren. 
+In der heutigen Stunde haben wir entsprechend des zweiten Levels Ameisen programmiert, welche den Weg der Maus sozusagen blockieren. Zunächst hatten wir erneut Probleme, die Ameisen so zu programmieren, dass sie sich mit der Zeit vermehren.
 
 ## 07. November 2022
 In der heutigen Stunde haben wir das zweite Level fast vollenden können. Es fehlen nur noch einige Kleinigkeiten, für die heute leider die Zeit nicht gereicht hat. Wir müssen noch weitere Käsekuchen an den geeigneten Stellen programmieren. 
@@ -71,7 +70,7 @@ In der heutigen Stunde haben wir das zweite Level fast vollenden können. Es feh
 Wir haben mittlerweile das zweite Level vollenden können. Nun tragen wir weitere Sachen in unseren Blog ein. Wir haben in dieser Stunde viel an unserem Blog gearbeitet und sind ziemlich weit gekommen. 
 
 ## 15. Dezember 2022
-In der heutigen Stunde haben wir unser Projekt vollenden können. Wir haben insgesamt zwei Level für das Spiel programmieren können. 
+In der heutigen Stunde haben wir unser Projekt vollenden können. Wir haben insgesamt zwei Level für das Spiel programmieren können. Nun müssen wir unseren Blogeintrag vollenden.
 
 
 
@@ -98,7 +97,7 @@ Level 2 :
 
 ![level2](Bilder/level2.png "Level 2")
 
-In dem zweiten Level gibt es 4 Ameisenhügel, aus denen Ameisen nach oben und nach unten hin herauskommen. Die Maus muss es schaffen, die Ameisenhügfel zu überqueren und kann dabei keine Ameisen berühren, bzw. über sie gehen. Nachdem die Maus die Hügel überquert hat, muss sie an die Käsekuchen rankommen. 
+In dem zweiten Level gibt es 4 Ameisenhügel, aus denen Ameisen nach oben und nach unten hin herauskommen. Die Maus muss es schaffen, die Ameisenhügel zu überqueren und kann dabei keine Ameisen berühren, bzw. über sie gehen. Nachdem die Maus die Hügel überquert hat, muss sie an die Käsekuchen rankommen. 
 
 
 ## Übergang von Level 1 zu Level 2
@@ -112,8 +111,11 @@ Wir haben den Übergang von Level 1 zu Level 2 wie auf dem Bild abgebildet progr
 
 Wir haben in der Zeit vom 22. August bis zum 15. Dezember in dem Fach Informatik an unseren Projekten gearbeitet. Dabei mussten wir uns einigen Probleme stellen, gleichzeitig hat es uns eine große Freude bereitet an dem Projekt zu arbeiten. Im folgenden möchten wir über unsere Erfahrungen berichten. 
 
-Wir haben uns gleich zu beginn der Projektphase dafür entschieden, ein Spiel zu programmieren. Wir fanden das total interessant und wollten uns der Herausforderung stellen, ein Spiel zu programmieren. In der zweiten Stunde haben wir uns geeinigt, dass es sich bei dem Spiel um eine Maus handeln soll, welche nach einem Stück Käsekuchen sucht. Bei der Programmierung gab es jedoch einige Schwierigkeiten, vor allem bei dem Übergang vom ersten Level in das zweite. Wir haben uns häufig tutorials angeguckt, jedoch oft ohne Erfolg. Daher haben wir angefangen, uns mit dem Buch "Einführung in Java mit Greenfoot" zu beschäftigen und konnten dadurch einige Dinge viel besser nachvollziehen. 
+Wir haben uns gleich zu beginn der Projektphase dafür entschieden, ein Spiel zu programmieren. Wir fanden das total interessant und wollten uns der Herausforderung stellen, ein Spiel zu programmieren. In der zweiten Stunde haben wir uns geeinigt, dass es sich bei dem Spiel um eine Maus handeln soll, welche nach einem Stück Käsekuchen sucht. Bei der Programmierung gab es jedoch einige Schwierigkeiten, vor allem bei dem Übergang vom ersten Level in das zweite. Wir haben uns häufig tutorials angeguckt, jedoch oft ohne Erfolg. Daher haben wir angefangen, uns mit dem Buch "Einführung in Java mit Greenfoot" zu beschäftigen und konnten dadurch einige Dinge viel besser nachvollziehen. Trotzdem gab es weitere Probleme, in die wir leider viel Zeit investiert haben. 
 
+Wir können die Zeit, in der wir uns mit dem Projekt beschäftigt haben, insgesamt als ziemlich herausfordernd bewerten. Es hat uns dennoch viel Spaß gemacht, uns diesen Herausforderungen zu stellen, da man so vieles lernen konnte. Wir hatten beide absolut keine Erfahrungen mit der Programmierung eines Spieles und haben das beide zum ersten mal gemacht. Somit sind wir relativ Stolz auf unser Resultat, aber wir wissen auf jeden Fall, was wir beim nächsten mal besser machen können und sind uns unseren Verbesserungsvorschlägen bewusst. So können wir das nächste Projekt mit einigen Vorkenntnissen. 
+
+Melina Safari und Lionora Ajvazi, Ahrensburg, 19. Dezember 2022
 
 
 
