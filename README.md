@@ -110,7 +110,9 @@ Wir haben den Übergang von Level 1 zu Level 2 wie auf dem Bild abgebildet progr
 
 ## Reflexion
 
-Wir haben in der Zeit vom 22. August bis zum 15. Dezember in dem Fach Informatik an unseren Projekten gearbeitet. Dabei mussten wir uns einigen Probleme stellen, gleichzeitig hat es uns eine große Freude bereitet an dem Projekt zu arbeiten. 
+Wir haben in der Zeit vom 22. August bis zum 15. Dezember in dem Fach Informatik an unseren Projekten gearbeitet. Dabei mussten wir uns einigen Probleme stellen, gleichzeitig hat es uns eine große Freude bereitet an dem Projekt zu arbeiten. Im folgenden möchten wir über unsere Erfahrungen berichten. 
+
+Wir haben uns gleich zu beginn der Projektphase dafür entschieden, ein Spiel zu programmieren. Wir fanden das total interessant und wollten uns der Herausforderung stellen, ein Spiel zu programmieren. In der zweiten Stunde haben wir uns geeinigt, dass es sich bei dem Spiel um eine Maus handeln soll, welche nach einem Stück Käsekuchen sucht. Bei der Programmierung gab es jedoch einige Schwierigkeiten, vor allem bei dem Übergang vom ersten Level in das zweite. Wir haben uns häufig tutorials angeguckt, jedoch oft ohne Erfolg. Daher haben wir angefangen, uns mit dem Buch "Einführung in Java mit Greenfoot" zu beschäftigen und konnten dadurch einige Dinge viel besser nachvollziehen. 
 
 
 
