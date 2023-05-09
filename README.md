@@ -79,7 +79,7 @@ In der heutigen Stunde haben wir unser Projekt vollenden können. Wir haben insg
 
 
 
-## Programm  <a name="Programm"></a>
+## Programm 
 Wir haben uns die Programme "Snap!" und "Greenfoot" angeguckt, welche uns nach Herrn Buhls Empfehlung gut zur programmierung eines Spieles helfen könnten. Wir haben uns zu beiden Programmen näher informiert und kamen zu dem Entschluss, dass Greenfoot übersichtlicher ist und optimal zu unserer Idee/ Vorstellung passt. Außerdem eignet sich das Programm besonders gut für Anfänger. So haben wir angefangen, uns ausführliche Tutorials zu dem Programm "Greenfoot" anzuschauen und kamen unserer Idee immer näher. 
 
 ![screenshot_greenfoot](Bilder/screenshot_greenfoot.png "Greenfoot")
