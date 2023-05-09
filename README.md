@@ -85,7 +85,7 @@ Wir haben uns die Programme "Snap!" und "Greenfoot" angeguckt, welche uns nach H
 ![screenshot_greenfoot](Bilder/screenshot_greenfoot.png "Greenfoot")
 
 
-## Levels <a name="Levels"></a>
+## Levels 
 Level 1 :
 
 ![level1](Bilder/level1.png "Level 1")
